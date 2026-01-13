@@ -55,6 +55,7 @@ Ballsdex allows you to catch, collect, and trade virtual countryballs. The bot's
 ### **6. Moderation:**
 - The bot administrators and moderators have the right to enforce these rules and take appropriate actions against rule violators. These actions may include warnings, temporary bans,  permanent bans and/or blacklisted from using the bot.
 - Violation of bot involving collectible items may result in deletion or removal of such items.
+- If you ever seen someone violating the bot rules please report it via the (/report), it's really encouraged and doing so will get you bonuses but if failing to do so will get you in a punishment.
 
 ### **7. Changes to Terms and Rules:**
 - The terms of service and rules might be updated at any time. Users will be notified of changes, and continued use of the bot will imply agreement to the modified terms.
